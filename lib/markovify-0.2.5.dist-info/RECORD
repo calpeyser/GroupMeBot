@@ -1,0 +1,16 @@
+markovify/__init__.py,sha256=UzTxRPwfmfuqEJ_0H4t4HIvfFdMx9apjf89rOdk-KTs,163
+markovify/chain.py,sha256=u2Vl34h6Zq9SdVMbnPPJS--AQ3dnrk4cW_79mol5UN4,4241
+markovify/splitters.py,sha256=KXb0Wv1nXJV8NU8YZ39-_tEuqaHaraMybb1eOvd9VxQ,2047
+markovify/text.py,sha256=WWh1mL89d8yCaA5tJwzaLqkjj5OR5PLYZjaUQND-xPs,5708
+markovify-0.2.5.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+markovify-0.2.5.dist-info/METADATA,sha256=ZNTfm_8BvXBERhisjN47F7SMWKB-7djr8aQi75GTkGM,775
+markovify-0.2.5.dist-info/RECORD,,
+markovify-0.2.5.dist-info/WHEEL,sha256=1MCSHS6HDHLQ4wIeJBIjjA5GPDLnYZX2HFlkttwBvUE,93
+markovify-0.2.5.dist-info/metadata.json,sha256=reD7SJCyIGq8mKprzUKlXpTI2R0s5m0UuallCR2xBsg,982
+markovify-0.2.5.dist-info/namespace_packages.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+markovify-0.2.5.dist-info/top_level.txt,sha256=4moJ-RLrRbC6VgiMb5bNFXP1LWPBVwFGBfSBfsOMgRs,10
+/var/folders/8q/y4hl1w550qj5c919h77xttw000_kc6/T/tmp148bm0/lib/python/markovify-0.2.5.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+markovify/__init__.pyc,,
+markovify/text.pyc,,
+markovify/chain.pyc,,
+markovify/splitters.pyc,,

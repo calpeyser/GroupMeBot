@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>GroupMeBot</h1>
+
+<form action="/" method="post">
+	<select name="author">
+		{% for author in authors %}
+			<option value="{{ author }}">{{ author }}</option>
+		{% endfor %}
+	</select>
+	<input type="submit" value="Generate Post">
+</form>
+
+<p>{{ post }}</p>
+</body>
+</html>
